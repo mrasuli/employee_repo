@@ -1,0 +1,8 @@
+employee_id = read_employee_id()
+first_name = read_first_name()
+last_name = read_last_name()
+birth_year = read_birth_year()
+birth_month = read_birth_month()
+birth_day = read_birth_day()
+emp_position = read_emp_position()
+graduated_str = read_graduate()
